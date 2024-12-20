@@ -1,0 +1,1 @@
+(images/Hotel-card.png)
