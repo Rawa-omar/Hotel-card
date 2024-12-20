@@ -1,1 +1,1 @@
-(images/Hotel-card.png)
+![The Output](images/Hotel-card.png)
